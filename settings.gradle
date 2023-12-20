@@ -1,0 +1,1 @@
+include ':app', ':googleplaylicenselibrary2', ':googleplaydownloaderlibrary2'
